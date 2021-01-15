@@ -1,0 +1,1 @@
+# kasuLogibFrontend-view-v5
