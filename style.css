@@ -1,0 +1,181 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap'); */
+
+body{
+
+    /* font-family: 'Poppins', sans-serif !important; */
+    /* background: linear-gradient(to bottom, #ffcccc 0%, #ffff99 100%); */
+
+background-image: url(images/p3.jpg);
+
+}
+
+
+.content{
+    
+    margin: 1% !important;
+    background-color: rgba(179, 0, 179,0.3)    ;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,0.15);
+    border: 5px solid #b300b3;
+    border-radius: 8%;
+    
+}
+
+.frontend-pic1-setting{
+
+    height: 550px !important;
+    width: 900px !important;
+    border-radius: 10%;
+   
+}
+
+.spna-img-set{
+
+    width: 16px !important;
+    height: 16px !important;
+}
+
+.section-heading-up{
+   
+    
+    width: 20% !important;
+    height: 35px !important;
+
+   position: relative;
+   left: 79%;
+   bottom: 98px;
+    /* display: flex !important;
+    justify-content: flex-start !important; */
+
+   }
+
+.section-heading-in{
+
+    display: flex !important;
+    justify-content: flex-start !important;
+    
+    position: relative;
+    bottom: 10%;
+}
+
+.forgetpasword-text{
+    position: relative;
+    left: 72%;
+    top: 30px;
+}
+.singIn-set{
+    position: sticky;
+    bottom: 0;
+}
+
+.sign-up-section{
+
+    /* background: linear-gradient(to bottom, #ffcccc 0%, #ffff99 100%); */
+    background: rgba(179, 0, 179,0.3);
+     padding: 2% 3% 2% 3%;
+     margin-left: 1%;
+ 
+     border-radius: 4%;
+     color: #fff;
+
+     position: relative;
+     box-shadow: 0 5px 20px rgba(0,0,0,0.25);
+     
+
+}
+
+.rememberme-set{
+    position: relative;
+    left: 5%;
+}
+
+.right-side-pic-bg-set{
+
+  
+   
+
+    position: relative;
+    box-shadow: 10px 5px 20px rgba(0,0,0,0.25);
+ 
+
+}
+
+.form-control{
+
+    display: block;
+    width: 100%;
+    font-weight: 400;
+    line-height: 1.5;
+    border-color:#cc0066 !important;
+    border-style: solid !important;
+    border-width: 0 0 1px 0 !important;
+    padding:  0px !important;
+    color: #495057 !important;
+    height: auto;
+    border-radius: 0;
+    background-color: #fff;
+    background-clip: padding-box;
+    padding-left: 1%;
+
+}
+
+.form-control:focus{
+    color: #495057 ;
+    background-color: #fff;
+    border-color: #fff;
+    outline: 0;
+    box-shadow: none;
+}
+
+
+.form-control:hover{
+
+    padding-left: 1%;
+    background: #fff!important;
+    border-radius: 10px !important;
+    box-shadow: -15px -15px 15px rgba(255,255,255,0.3),
+                15px 15px 15px rgba(0,0,0,0.3);
+                transform: scale(1.1);
+
+
+}
+
+.btn-class{
+
+    display: flex !important;
+    justify-content: center !important;
+    position: relative;
+    left: 38%;
+
+    border-color: #fff !important;
+    color: #ffd11a !important;
+    font-weight: 600 !important;
+}
+
+.btn-class:hover{
+
+    background: #e60073 !important;
+    color: #fff !important;
+    font-weight: 600 !important;
+box-shadow:  -15px -15px 15px rgba(255,255,255,0.3),
+              15px 15px 15px rgba(0,0,0,0.3),
+              inset -15px -15px 15px rgba(255,255,255,0.3),
+              inset 15px 15px 15px rgba(0,0,0,0.3);
+
+    
+}
+
+
+.h4-color{
+    padding: 3%;
+    background-color: #4d004d !important;
+    border-radius: 5%;
+}
+
+#singinbtn{
+    position: relative;
+    left: 45% !important;
+}
+#signinset{
+    background: #cc0066;
+}
